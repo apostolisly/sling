@@ -11,6 +11,7 @@ tokens as input and the transition system has been designed to output frame
 graphs directly without any intervening symbolic representation.
 
 ![SLING neural network architecture.](./doc/report/network.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fsling.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fsling?ref=badge_shield)
 
 The SLING framework includes an efficient and scalable frame store
 implementation as well as a neural network JIT compiler for fast parsing at
@@ -572,3 +573,7 @@ Original authors of the code in this package include:
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fsling.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fsling?ref=badge_large)
